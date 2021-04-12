@@ -20,7 +20,7 @@ msgstr "Quelqu’un me demande de l’ajouter à ma liste d’amis – mais je n
 
 msgctxt "body.08241d24-c839-4fa9-a80e-233a22e7eb41"
 msgid "Sometimes people want to network or make a lot of friends on social media so they send friend requests to people they don’t know."
-msgstr ""
+msgstr "Parfois les gens veulent créer un réseau et avoir beaucoup d’amis sur les réseaux sociaux et ils envoient des invitations d’ajout à leur liste d’amis à des gens qu’ils ne connaissent pas."
 
 msgctxt "body.08241d24-c839-4fa9-a80e-233a22e7eb41"
 msgid "Before you accept a person you should have a look at their profile - try to see who they are. Do you have friends in common? Are you from the same town?"
