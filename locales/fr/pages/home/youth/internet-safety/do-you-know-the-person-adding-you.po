@@ -1,0 +1,23 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-04-12 17:06:07.695917+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 19d8b053-1901-4f8b-bd4f-9181be8a755b\n"
+
+msgctxt "title"
+msgid "Do you know the person adding you?"
+msgstr "Connais-tu la personne qui veut t’ajouter à sa liste d’amis ?"
+
+msgctxt "slug"
+msgid "do-you-know-the-person-adding-you"
+msgstr "connais-tu-la-personne-qui-veut-tajouter-à-sa-liste-damis"
+
+msgctxt "body.5e8af9a4-096b-4c86-b61e-483ba2594f98"
+msgid "Someone sent me a friend request - but I don’t know this person, what should I do?"
+msgstr "Quelqu’un me demande de l’ajouter à ma liste d’amis – mais je ne connais pas cette personne, que dois-je faire ?"
+
+msgctxt "body.1f698ca8-8150-4558-a8ef-9b80a64f94c7"
+msgid "Think before you accept a request from someone you don't know."
+msgstr "Réfléchissez avant d'accepter une demande de quelqu'un que vous ne connaissez pas."

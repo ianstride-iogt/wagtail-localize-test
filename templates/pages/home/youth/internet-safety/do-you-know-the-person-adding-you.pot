@@ -1,0 +1,22 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-04-12 17:06:07.692889+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "Do you know the person adding you?"
+msgstr ""
+
+msgctxt "slug"
+msgid "do-you-know-the-person-adding-you"
+msgstr ""
+
+msgctxt "body.5e8af9a4-096b-4c86-b61e-483ba2594f98"
+msgid "Someone sent me a friend request - but I don’t know this person, what should I do?"
+msgstr ""
+
+msgctxt "body.1f698ca8-8150-4558-a8ef-9b80a64f94c7"
+msgid "Think before you accept a request from someone you don't know."
+msgstr ""
