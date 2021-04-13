@@ -1,0 +1,6 @@
+locales = [ "fr",]
+[[paths]]
+reference = "templates/pages/home/youth/internet-safety/do-you-know-the-person-adding-you.pot"
+l10n = "locales/{locale}/pages/home/youth/internet-safety/do-you-know-the-person-adding-you.po"
+locales = [ "fr",]
+

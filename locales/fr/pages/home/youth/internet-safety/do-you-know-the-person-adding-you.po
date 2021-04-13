@@ -1,0 +1,19 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-04-13 17:57:25.995103+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-WagtailLocalize-TranslationID: 00ac3cda-88ae-435a-8590-ad9854d6c904\n"
+
+msgctxt "title"
+msgid "Do you know the person adding you?"
+msgstr ""
+
+msgctxt "slug"
+msgid "do-you-know-the-person-adding-you"
+msgstr ""
+
+msgctxt "body.d695fd42-b02f-41e1-adb4-894463f0f1ef"
+msgid "Someone sent me a friend request - but I don’t know this person, what should I do?"
+msgstr ""
