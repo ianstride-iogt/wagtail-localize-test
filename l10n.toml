@@ -4,3 +4,13 @@ reference = "templates/pages/home/youth/internet-safety/do-you-know-the-person-a
 l10n = "locales/{locale}/pages/home/youth/internet-safety/do-you-know-the-person-adding-you.po"
 locales = [ "fr",]
 
+[[paths]]
+reference = "templates/pages/home/youth.pot"
+l10n = "locales/{locale}/pages/home/youth.po"
+locales = [ "fr",]
+
+[[paths]]
+reference = "templates/pages/home/youth/internet-safety.pot"
+l10n = "locales/{locale}/pages/home/youth/internet-safety.po"
+locales = [ "fr",]
+

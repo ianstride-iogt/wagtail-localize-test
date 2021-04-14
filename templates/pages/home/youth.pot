@@ -1,0 +1,18 @@
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2021-04-14 13:45:44.068363+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "title"
+msgid "Youth"
+msgstr ""
+
+msgctxt "slug"
+msgid "youth"
+msgstr ""
+
+msgctxt "color"
+msgid "1CABE2"
+msgstr ""
